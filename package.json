@@ -1,0 +1,16 @@
+{
+  "name": "mini",
+  "version": "1.0.0",
+  "description": "minify html, css and javascript files",
+  "main": "mini.js",
+  "type":"module",
+  "scripts": {
+    "start": "node mini.js"
+  },
+  "keywords": [],
+  "author": "Adam Shannaq",
+  "license": "ISC",
+  "dependencies": {
+    "minify": "^9.1.0"
+  }
+}
